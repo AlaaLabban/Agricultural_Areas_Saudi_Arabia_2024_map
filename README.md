@@ -51,10 +51,10 @@ The core data for this map was produced in Google Earth Engine. The process is a
 ---
 ## screenshots
 screen shot of the map on QGIS
-![QGIS map screenshot](QGIS map screenshot.png)
+![QGIS map screenshot](QGIS-map-screenshot.png)
 screen shot of a zoomed area (wadi al-dawasir) that have crop circles 
 the screen shot shows how the script successfully identifying crops area
-![QGIS closup into wadi al dawasir](QGIS closup into wadi al dawasir.png)
+![QGIS closup into wadi al dawasir](QGIS-closup-into-wadi-al-dawasir.png)
 
 ---
 ## 6. Google Earth Engine Script
