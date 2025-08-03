@@ -1,3 +1,4 @@
+screen shot of the map on QGIS ![whole map](QGIS map screenshot.png) screen shot of a zoomed area (wadi al-dawasir) that have crop circles the screen shot shows how the script successfully identifying crops area ![zoomed area](QGIS-closeup-into-wadi-al-dawasir.png)
 # Project: Agricultural Areas in Saudi Arabia (2024)
 
 *Created by [Alaa Labban](https://github.com/AlaaLabban)*
