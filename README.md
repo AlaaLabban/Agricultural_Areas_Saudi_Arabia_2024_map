@@ -1,4 +1,4 @@
-screen shot of the map on QGIS ![whole map](QGIS map screenshot.png) screen shot of a zoomed area (wadi al-dawasir) that have crop circles the screen shot shows how the script successfully identifying crops area ![zoomed area](QGIS-closeup-into-wadi-al-dawasir.png)
+screen shot of the map on QGIS ![whole map](QGIS map screenshot.png) screen shot of a zoomed area (wadi al-dawasir) that have crop circles the screen shot shows how the script successfully identifying crops area 
 # Project: Agricultural Areas in Saudi Arabia (2024)
 
 *Created by [Alaa Labban](https://github.com/AlaaLabban)*
@@ -54,7 +54,7 @@ screen shot of the map on QGIS
 ![QGIS map screenshot](QGIS-map-screenshot.png)
 screen shot of a zoomed area (wadi al-dawasir) that have crop circles 
 the screen shot shows how the script successfully identifying crops area
-![QGIS closup into wadi al dawasir](QGIS-closup-into-wadi-al-dawasir.png)
+![zoomed area](QGIS-closeup-into-wadi-al-dawasir.png)
 
 ---
 ## 6. Google Earth Engine Script
