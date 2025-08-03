@@ -48,7 +48,14 @@ The core data for this map was produced in Google Earth Engine. The process is a
     * **Resolution:** 30 meters.
 
 ---
+## screenshots
+screen shot of the map on QGIS
+![whole map](QGIS map screenshot.png)
+screen shot of a zoomed area (wadi al-dawasir) that have crop circles 
+the screen shot shows how the script successfully identifying crops area
+![zoomed area](QGIS closup into wadi al dawasir.png)
 
+---
 ## 6. Google Earth Engine Script
 
 The following script was used to generate the data. It can be run in the [GEE Code Editor](https://code.earthengine.google.com/) by defining a geometry for Saudi Arabia.
