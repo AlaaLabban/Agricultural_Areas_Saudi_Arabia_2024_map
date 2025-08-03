@@ -1,8 +1,6 @@
 # Project: Agricultural Areas in Saudi Arabia (2024)
 
-**Author:** Alaa Labban
-**Date:** August 2025
-**QGIS Project File:** `final colored.qgz`
+*Created by [Alaa Labban](https://github.com/AlaaLabban)*
 
 ---
 
